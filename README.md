@@ -6,9 +6,9 @@ V rámci bonusového úkolu z 5. lekce si zopakujeme, co jsme se naučili během
 Úkolem bude vytvořit filmovou kartu, která bude obsahovat:
 
 Celá karta filmu bude mít obalovací div např. s názvem kontejner.
-Titulek <h1> s názvem filmu
+Titulek ```<h1>``` s názvem filmu
 Pod titulkem bude obrázek filmu.
-Pod obrázek bude odstavec <p>, ve kterém bude popisek filmu.
+Pod obrázek bude odstavec ```<p>```, ve kterém bude popisek filmu.
 Pod obrázek umístíme krátký nečíslovaný seznam s položkami (tvůrci filmu).
 Pod seznamem vytvoříme tabulku s oceněními pro daný film.
 Na konci karty bude vlevo umístěný odkaz na Facebook, který napozicujeme absolutně vůči rodičovskému elementu.
